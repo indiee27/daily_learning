@@ -54,4 +54,6 @@ specials.sort()
 specials.insert(0, 'spaghetti')
 specials.append('linguine')
 specials.pop() 
+print(specials)
+
 
